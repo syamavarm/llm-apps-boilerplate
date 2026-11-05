@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "name": "apply-for-securbank-credit-card",
+      "title": "Apply for SecurBank credit card",
+      "description": "Open SecurBank's credit card application form for personal, employment, financial, and card-selection details. The user fills in and submits the form in the widget; do not call this tool again to submit.",
+      "requiresAuth": false,
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "userIntent": {
+            "type": "string",
+            "description": "A concise, anonymized summary of the user's goal that motivated this tool call, used for analytics. Do not include any personally identifiable information (names, emails, phone numbers, addresses, account IDs) or sensitive data (credentials, financial, health, or other private details). Describe the intent in generic terms; omit this field if you cannot summarize without such data."
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "openWorldHint": false,
+        "idempotentHint": false
+      },
+      "tool_meta": {
+        "output_schema": null,
+        "preview_prompt": "I've decided on a SecurBank credit card and want to open the application form.",
+        "journey_order": 1,
+        "openai/widgetAccessible": true,
+        "openai/resultCanProduceWidget": true,
+        "openai/visibility": "public",
+        "ui/visibility": [
+          "model",
+          "app"
+        ],
+        "openai/toolInvocation/invoking": "Invoking Apply for SecurBank credit card",
+        "openai/toolInvocation/invoked": "Apply for SecurBank credit card invoked",
+        "openai/widgetDescription": "The widget shows the result above. Don't repeat it — instead, suggest a next step or ask a clarifying question. Keep the reply concise."
+      },
+      "resource_meta": {
+        "csp": {
+          "resourceDomains": [
+            "https://llm-apps-form-actions--securbank--syamavarm.aem.page"
+          ],
+          "connectDomains": [
+            "https://llm-apps-form-actions--securbank--syamavarm.aem.page",
+            "https://forms.adobe.com",
+            "https://publish-p149891-e1546481.adobeaemcloud.com"
+          ]
+        }
+      },
+      "analyticsEnabled": true,
+      "userIntentAnalyticsEnabled": true,
+      "widget_type": "EDS",
+      "sendsEdgeEvent": true,
+      "eds_widget": {
+        "script_url": "https://llm-apps-form-actions--securbank--syamavarm.aem.page/scripts/aem-embed.js",
+        "widget_embed_url": "https://llm-apps-form-actions--securbank--syamavarm.aem.page/eds-widgets/form-widget"
+      }
+    },
+    {
+      "name": "register-securbank-account-interest",
+      "title": "Register SecurBank account interest",
+      "description": "Open SecurBank's account-interest form to select account types and request contact at a preferred time. The user fills in and submits the form in the widget; do not call this tool again to submit.",
+      "requiresAuth": false,
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "userIntent": {
+            "type": "string",
+            "description": "A concise, anonymized summary of the user's goal that motivated this tool call, used for analytics. Do not include any personally identifiable information (names, emails, phone numbers, addresses, account IDs) or sensitive data (credentials, financial, health, or other private details). Describe the intent in generic terms; omit this field if you cannot summarize without such data."
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "openWorldHint": false,
+        "idempotentHint": false
+      },
+      "tool_meta": {
+        "output_schema": null,
+        "preview_prompt": "I'd like SecurBank to contact me at a convenient time about opening an account to save money and time.",
+        "journey_order": 2,
+        "openai/widgetAccessible": true,
+        "openai/resultCanProduceWidget": true,
+        "openai/visibility": "public",
+        "ui/visibility": [
+          "model",
+          "app"
+        ],
+        "openai/toolInvocation/invoking": "Invoking Register SecurBank account interest",
+        "openai/toolInvocation/invoked": "Register SecurBank account interest invoked",
+        "openai/widgetDescription": "The widget shows the result above. Don't repeat it — instead, suggest a next step or ask a clarifying question. Keep the reply concise."
+      },
+      "resource_meta": {
+        "csp": {
+          "resourceDomains": [
+            "https://llm-apps-form-actions--securbank--syamavarm.aem.page"
+          ],
+          "connectDomains": [
+            "https://llm-apps-form-actions--securbank--syamavarm.aem.page",
+            "https://forms.adobe.com",
+            "https://publish-p149891-e1546481.adobeaemcloud.com"
+          ]
+        }
+      },
+      "analyticsEnabled": true,
+      "userIntentAnalyticsEnabled": true,
+      "widget_type": "EDS",
+      "sendsEdgeEvent": true,
+      "eds_widget": {
+        "script_url": "https://llm-apps-form-actions--securbank--syamavarm.aem.page/scripts/aem-embed.js",
+        "widget_embed_url": "https://llm-apps-form-actions--securbank--syamavarm.aem.page/eds-widgets/form-widget"
+      }
+    }
+  ]
+}
