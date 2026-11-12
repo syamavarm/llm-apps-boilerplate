@@ -10,7 +10,7 @@ application:
   runtimeManifest:
     packages:
       # Package name — change to match your project.
-      llm-apps:
+      securbank-forms:
         actions:
           # MCP server action (exposed as POST /.../mcp)
           mcp:
