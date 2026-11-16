@@ -95,6 +95,7 @@ test('returns the form definition only in _meta', async (t) => {
     assert.equal(out._meta.formOrigin, "https://www.securbankdemo.com")
     assert.equal(out._meta.formTitle, FORM.title)
     assert.equal(out._meta.formConverted, false)
+    assert.equal(out._meta.formSheetUrl, null)
     assert.equal('structuredContent' in out, false)
     assert.equal(out.content.length, 1)
     assert.equal(out.content[0].type, 'text')
@@ -119,6 +120,18 @@ test('passes the JSON through unchanged but for FORM_THEME, whatever its shape (
     assert.equal(out.isError, undefined)
     assert.deepEqual(out._meta.formDefinition, themed(anyShape))
     if (FORM_THEME) assert.equal(out._meta.formDefinition.properties.x, 1)
+})
+
+test('names a document-based form\'s sheet URL, so the widget can submit it; an embedded page never does', async (t) => {
+    const sheet = { ...ID, total: 1, data: [{ Name: 'email', Type: 'email' }], ':type': 'sheet' }
+    respond(t, sheet)
+
+    const out = await handler()
+
+    assert.equal(out.isError, undefined)
+    const { origin, pathname } = new URL(FORM_URL)
+    const expected = !EMBEDDED && pathname.endsWith('.json') ? origin + pathname.slice(0, -'.json'.length) : null
+    assert.equal(out._meta.formSheetUrl, expected)
 })
 
 test('ignores whatever arrives as arguments (request context or userIntent)', async (t) => {

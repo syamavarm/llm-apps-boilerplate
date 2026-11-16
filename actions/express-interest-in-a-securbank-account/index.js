@@ -214,6 +214,15 @@ function withTheme (definition) {
     return { ...definition, properties: { ...properties, theme: [FORM_THEME] } }
 }
 
+/* A document-based form's definition is its sheet ({":type": "sheet", data}). The form block posts it to the AEM
+ * Forms Submission Service by the sheet's host and path, which it reads from the page's link to the sheet; the
+ * widget has no such link, so the handler names it: FORM_URL without ".json". null for any other form. */
+function sheetUrl (definition) {
+    if (FORM_EMBEDDED || definition?.[':type'] !== 'sheet' || !Array.isArray(definition.data)) return null
+    const { origin, pathname } = new URL(FORM_URL)
+    return pathname.endsWith('.json') ? origin + pathname.slice(0, -'.json'.length) : null
+}
+
 module.exports = async () => {
     try {
         const started = Date.now()
@@ -222,7 +231,13 @@ module.exports = async () => {
         return {
             // The model reads only the planner's title: the live definition's text never reaches it.
             content: [{ type: 'text', text: `Showing the ${FORM_TITLE} form for the user to fill in and submit.` }],
-            _meta: { formDefinition, formOrigin: FORM_ORIGIN, formTitle: formDefinition?.title || FORM_TITLE, formConverted: FORM_CONVERTED }
+            _meta: {
+                formDefinition,
+                formOrigin: FORM_ORIGIN,
+                formTitle: formDefinition?.title || FORM_TITLE,
+                formConverted: FORM_CONVERTED,
+                formSheetUrl: sheetUrl(formDefinition)
+            }
         }
     } catch (error) {
         console.error(`[express-interest-in-a-securbank-account] ${error.message}`)
