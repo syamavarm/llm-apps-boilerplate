@@ -1,0 +1,236 @@
+[
+  {
+    "id": "synopsys-cloud-options-1",
+    "name": "Synopsys managed SaaS environment",
+    "description": "A fully managed, web-based, ready-to-go design environment that can be setup within a day and provides access to all the infrastructure necessary for chip design work, including numerous compute and storage options, schedulers, UNIX desktop, and Synopsys EDA products installed.",
+    "features": [
+      "Access to EDA, IP and compute infrastructure via secure, turnkey SaaS environment",
+      "Broad compute and storage options, with recommendations based on your workloads",
+      "FlexEDA licensing with pay-per-use and term-based Synopsys EDA licenses",
+      "Analytics dashboard to visualize your license usage and budget spend",
+      "License and budget governance on a per-user and per-project basis via self-serve portal",
+      "Seamless access to Synopsys IP",
+      "Pre-defined flows to jumpstart Analog, Digital, Verification and Photonics designs",
+      "Approved by top foundries for use with their design collateral and PDKs",
+      "The environment is enabled with Role Based Access Control (RBAC)"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-platform-fig1?qlt=82&ts=1773780345580&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/platform.html",
+    "option_category": "Deployment option",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [
+      "Microsoft Azure"
+    ],
+    "licensing_model": "FlexEDA (pay-per-use and cloud subscription license)"
+  },
+  {
+    "id": "synopsys-cloud-options-2",
+    "name": "Bring Your Own Compute (BYOC)",
+    "description": "A customer-managed environment, whether it is an on-prem data center or on the cloud such as AWS, Google Cloud Platform, HPE, and Microsoft Azure.",
+    "features": [
+      "Customers can bring in the cloud vendor of their choice to run Synopsys EDA tools, any third-party tools, foundry collateral, and PDKs",
+      "Customers do not need to manage license servers and keys for Synopsys EDA tools",
+      "Concurrent, seamless access to Synopsys EDA tools running on local license servers (customer's cloud environment) and the ones under pay-per-use access",
+      "Full control by customers of their cloud environment, with accessibility to run same flows, scripts, and binaries",
+      "Flexibility to run any third-party EDA tool on their cloud environment (customer's responsibility)",
+      "Foundry collateral and process development kits (PDKs) (customer managed)",
+      "Usage and analytics details on the consumption of cloud credits from a browser-based UI"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-platform-fig1?qlt=82&ts=1773780345580&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/glossary/what-is-bring-your-own-cloud.html",
+    "option_category": "Deployment option",
+    "managed_by": "Customer",
+    "compute_infrastructure": [
+      "On-prem data center",
+      "Amazon Web Services (AWS)",
+      "Google Cloud Platform",
+      "HPE",
+      "Microsoft Azure"
+    ],
+    "licensing_model": "FlexEDA (pay-per-use)"
+  },
+  {
+    "id": "synopsys-cloud-options-3",
+    "name": "Synopsys Cloud Hybrid Solution",
+    "description": "Enables design teams to burst EDA workloads to the cloud securely, seamlessly, and quickly. A designer simply submits EDA jobs to their scheduler on-prem and the secure hybrid solution takes care of the rest, leveraging cloud compute capacity as needed.",
+    "features": [
+      "No need to manually move data from on-prem to the cloud environment for jobs that run on the cloud",
+      "Data needed and generated on the cloud is synchronized automatically in real-time between the cloud and on-prem",
+      "Automatically splits the job between on-prem and cloud compute resources based on available capacity",
+      "Initially available for early customer access via a bring-your-own-cloud (BYOC) approach on Microsoft Azure and Amazon Web Services"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-platform-fig2?qlt=82&ts=1748987337455&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/blogs/chip-design/eda-workloads-hybrid-cloud-solution.html",
+    "option_category": "Deployment option",
+    "managed_by": "Customer (on-prem) with cloud burst",
+    "compute_infrastructure": [
+      "On-prem data center",
+      "Microsoft Azure",
+      "Amazon Web Services"
+    ],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-4",
+    "name": "FlexEDA Cloud Subscription License (CSL)",
+    "description": "If you prefer to plan ahead, the CSL model provides the familiar fixed-number, term-based license access.",
+    "features": [
+      "Instant purchase and activation of term-based licenses via a web portal",
+      "CSLs are of fixed term and quantity; paid upfront and cloud credits are deducted before use",
+      "For EDA products which are not cloud scalable"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/flexeda-biz-model-diagram?qlt=82&ts=1747778832321&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/glossary/what-is-flexeda.html",
+    "option_category": "Licensing model",
+    "managed_by": null,
+    "compute_infrastructure": [],
+    "licensing_model": "Term-based cloud subscription license"
+  },
+  {
+    "id": "synopsys-cloud-options-5",
+    "name": "FlexEDA Pay-Per-Use (PPU) licensing",
+    "description": "Grants unrestricted on-demand access to Synopsys' flagship applications at a per-minute rate. The metering algorithm monitors the jobs for the number and duration of licenses checked out and charges the user accordingly.",
+    "features": [
+      "Pay-per-use access to unlimited licenses by-the-minute",
+      "Unlocks unlimited parallel processing",
+      "Cloud credits are deducted after actual use",
+      "No minimum spend thresholds or size limits on cloud engagement",
+      "Available for BYOC and SaaS deployments"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/flexeda-biz-model-diagram?qlt=82&ts=1747778832321&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/glossary/what-is-flexeda.html",
+    "option_category": "Licensing model",
+    "managed_by": null,
+    "compute_infrastructure": [],
+    "licensing_model": "Pay-per-use, metered by the minute"
+  },
+  {
+    "id": "synopsys-cloud-options-6",
+    "name": "Combine CSL and PPU",
+    "description": "The combination of CSL and PPU via FlexEDA licensing allows the flexibility needed to cater to the changing EDA needs of a chip design project.",
+    "features": [
+      "Analytics dashboard to visualize your license usage and budget spend",
+      "License governance on a per-user and per-project basis"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/flexeda-biz-model-diagram?qlt=82&ts=1747778832321&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/platform.html",
+    "option_category": "Licensing model",
+    "managed_by": null,
+    "compute_infrastructure": [],
+    "licensing_model": "Cloud subscription license combined with pay-per-use"
+  },
+  {
+    "id": "synopsys-cloud-options-7",
+    "name": "Synopsys ZeBu Cloud",
+    "description": "A hosted emulation solution that delivers flexible, turn-key, and secure emulation to accelerate software bring-up, performance validation, pre-silicon power analysis, and system validation from IP sub-systems to large multi-die SoCs.",
+    "features": [
+      "New users can run emulation on ZeBu Cloud without the cost of purchasing and operating hardware",
+      "Users with on-premise ZeBu systems can use ZeBu Cloud to add capacity for specific phases or use case requirements during a project",
+      "Enables pre-silicon collaboration with customers in a secure emulation environment",
+      "Hosts emulation capacity in the Synopsys data center with high performance compute servers for the entire ZeBu flow",
+      "ISO 27001 and SOC2 Type 2 certified emulation cloud"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/zebu-cloud-solution?qlt=82&ts=1763512835337&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/verification/emulation-prototyping/emulation/zebu-cloud-solution.html",
+    "option_category": "Hosted emulation",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [
+      "Synopsys data center"
+    ],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-8",
+    "name": "Analog SaaS Cloud Instance",
+    "description": "Provides a complete end-to-end design flow that leverages Synopsys' years of experience developing analog IP to maximize designer productivity. The flow is pre-configured in the virtual machine image, ready to be provisioned on-demand.",
+    "features": [
+      "Schematic design, circuit simulation, layout creation, in-design analysis, extraction, verification, and signoff",
+      "Eliminates the need to maintain a CAD infrastructure",
+      "Global engineering teams can collaborate on the same schematic or layout or design",
+      "Not constrained by compute infrastructure or by licenses"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/ADC-analog-designers-1600x960?qlt=82&ts=1741728463467&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/analog-saas.html",
+    "option_category": "Pre-defined SaaS instance",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-9",
+    "name": "Digital SaaS Cloud Instance",
+    "description": "Provides automated flows for two primary tasks in a typical digital design: synthesis and RTL-to-signoff. All required EDA tools, third-party technologies, and pre-optimized compute virtual machine options are available with a few clicks in the browser window.",
+    "features": [
+      "Pre-configured ready-to-use flows",
+      "Simplified and automated execution",
+      "Managed and flow-optimized compute",
+      "Pre-built flows remain fully customizable"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-icon-image-1600x960?qlt=82&ts=1741727047745&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/digital-saas.html",
+    "option_category": "Pre-defined SaaS instance",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-10",
+    "name": "Verification SaaS Cloud Instance",
+    "description": "Incorporates a complete verification simulation flow including debug and analysis with pre-configured verification tasks. Allows companies to scale verification based on real-time demands without the need for purchasing more licenses.",
+    "features": [
+      "No need for building out an extensive verification infrastructure",
+      "Pre-configured flows that can be implemented by the minute",
+      "Ready-to-use simulation and debug flows built with automation in mind"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/verification-1600x960-BLUE?qlt=82&ts=1741727119348&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/verification-saas.html",
+    "option_category": "Pre-defined SaaS instance",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-11",
+    "name": "Photonic Cloud Instance",
+    "description": "Provides a complete end-to-end design flow for photonic devices, systems, and integrated circuits, pre-configured in the virtual machine image and ready to be provisioned on demand.",
+    "features": [
+      "Complete front-to-back electronic-photonic design flow in a browser-based SaaS environment",
+      "Ideal for start-ups and small/medium enterprises",
+      "OptoCompiler platform for photonic IC design"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/optocompiler-pic-cover-2021?qlt=82&ts=1741727189932&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/photonic-saas.html",
+    "option_category": "Pre-defined SaaS instance",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [],
+    "licensing_model": null
+  },
+  {
+    "id": "synopsys-cloud-options-12",
+    "name": "FlexEDA Playground",
+    "description": "Provides a secure, pre-configured environment with sample designs and EDA tools, so you can start exploring immediately without setup or infrastructure overhead. 20 days of Playground access.",
+    "features": [
+      "Analog, Digital, Verification, Photonics and TCAD design flows",
+      "A valid Synopsys Site ID and acceptance of the End User License Agreement and Playground Evaluation License Agreement are required",
+      "Access is subject to regional availability"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/engineers-looking-at-screen-1600x960?qlt=82&ts=1794005945648&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud/flexeda-playground.html",
+    "option_category": "Trial access",
+    "managed_by": "Synopsys",
+    "compute_infrastructure": [],
+    "licensing_model": null
+  }
+]
