@@ -1,0 +1,461 @@
+[
+  {
+    "id": "synopsys-products-1",
+    "name": "Fusion Compiler",
+    "description": "Fusion Compiler features a unique RTL-to-GDSII architecture that delivers superior levels of power, performance and area out-of-the-box, along with industry-best turnaround time.",
+    "features": [
+      "Maximize PPA: Unified RTL-to-GDSII engines unlock top performance, power & area results",
+      "Single Shell: Single, integrated data model architecture for unmatched capacity, scalability, & productivity",
+      "Golden Signoff: Built-in signoff timing, parasitic extraction, & power analysis eliminate design iterations"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/fusion-compiler-hero?qlt=82&ts=1762538930389&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html",
+    "product_id": "fusion-compiler",
+    "product_family": "Silicon Design",
+    "industries": [],
+    "short_description": "Discover Fusion Compiler for superior power, performance, and area (PPA) with a unique RTL-to-GDSII architecture. Achieve faster design turnaround times."
+  },
+  {
+    "id": "synopsys-products-2",
+    "name": "Custom Compiler",
+    "description": "Synopsys Custom Compiler, enabled with Synopsys Multiphysics Fusion capabilities, is a modern design environment for full-custom analog, custom digital, RF, and mixed-signal IC design.",
+    "features": [
+      "Mixed-signal design entry, design debug, simulation management, analysis, and reporting",
+      "Fast, user-friendly polygon editing and visually assisted automation that delivers 2-10X higher productivity, especially for advanced-node FinFET designs",
+      "Built-in verification capabilities, including design rule checking, electromigration analysis, and parasitic extraction",
+      "Integrated multiphysics HFSS-IC analysis",
+      "Support for templates, early parasitic simulation, and multiphysics-aware analysis"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html",
+    "product_id": "custom-compiler",
+    "product_family": "Silicon Design",
+    "industries": [],
+    "short_description": "Discover Synopsys' Custom Compiler for full-custom IC design. Benefit from industry-leading productivity, mixed-signal design entry, and visually-assisted automation."
+  },
+  {
+    "id": "synopsys-products-3",
+    "name": "3DIC Compiler",
+    "description": "The Synopsys 3DIC Compiler platform enables efficient multi-die/advanced package co-design and optimization for 2.5D and 3D multi-die designs.",
+    "features": [
+      "Seamless, in-design, signoff-quality multiphysics solvers for thermal, power integrity, signal integrity, and stress analysis, enabled by Synopsys Multiphysics Fusion capabilities",
+      "Automated high-speed die-to-die routing for UCIe and HBM improves efficiency, signal integrity, and scalability.",
+      "Support for a wide range of advanced packaging technologies, including interposer-based designs, silicon interposer, organic interposer, LSI bridge, fanout, and system-on-wafer, provides flexibility.",
+      "Support for major foundries including TSMC, Samsung, Intel Foundry, GlobalFoundries, Rapidus, and UMC.",
+      "Integration with silicon-proven Synopsys IP streamlines implementation and IP integration.",
+      "Combination of 3DIC Compiler, Synopsys TestMAX and Silicon Lifecycle Management solutions enables test, repair, & analytics functions."
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/3dic-compiler-fig1-1?qlt=82&ts=1759774074176&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/3dic-design.html",
+    "product_id": "3dic-design",
+    "product_family": "Silicon Design",
+    "industries": [
+      "HPC",
+      "AI"
+    ],
+    "short_description": "Discover Synopsys 3DIC Compiler for efficient 2.5D and 3D multi-die designs. Achieve unmatched scalability, high productivity, and golden signoff."
+  },
+  {
+    "id": "synopsys-products-4",
+    "name": "PrimeTime",
+    "description": "The PrimeTime Suite delivers fast, memory-efficient scalar, distributed, and multicore computing, along with distributed multi-scenario analysis for advanced SoC and multi-die designs.",
+    "features": [
+      "Crosstalk delay and signal integrity analysis",
+      "Constraint (SDC) consistency checking",
+      "Advanced On-chip variation (AOCV)",
+      "Physically-aware ECO guidance for timing, DRC and power recovery",
+      "Parametric on-chip variation (POCV)",
+      "Machine learning based power recovery and PBA",
+      "Simultaneous multi-voltage analysis with DVFS",
+      "Aging-aware STA",
+      "Hierarchical analysis",
+      "Distributed multi-scenario analysis",
+      "HyperGrid distributed analysis",
+      "IR-aware, thermal-aware and stress-aware timing analysis"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html",
+    "product_id": "primetime",
+    "product_family": "Silicon Design",
+    "industries": [
+      "AI",
+      "HPC"
+    ],
+    "short_description": "PrimeTime Static timing analysis provides full chip timing with signal integrity, advance node accuracy and ECO guidance."
+  },
+  {
+    "id": "synopsys-products-5",
+    "name": "VCS",
+    "description": "The Synopsys VCS functional verification solution provides the industry’s highest performance simulation and constraint solver engines.",
+    "features": [
+      "Compile time: Partition and distributed compile, dynamic reconfiguration",
+      "Runtime: Dynamic test loading, Save/Restore, constraint solver optimization, HyperSim",
+      "Native Low Power, Xpropagation, Direct Interfaces (DKI, DPI) to High-Level Modeling (SystemC, MATLAB) and AMS simulation",
+      "Dynamic SDC-aware verification with Multi Cycle Path and False Path verification",
+      "Intelligent Coverage Optimization",
+      "Dynamic Performance Optimization",
+      "Testbench coverage - line coverage on testbench classes helps assess testbench quality",
+      "HyperSim for long running SoC simulations",
+      "Simulation acceleration with ZeBu emulation system to provide higher performance"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/vcs-diagram?qlt=82&ts=1795120532238&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/verification/simulation/vcs.html",
+    "product_id": "vcs",
+    "product_family": "Verification",
+    "industries": [],
+    "short_description": "Discover Synopsys VCS for advanced functional verification with industry-leading performance, multicore parallelism, and comprehensive coverage analysis."
+  },
+  {
+    "id": "synopsys-products-6",
+    "name": "ZeBu",
+    "description": "Synopsys software-defined ZeBu emulation systems deliver the performance needed to make verification teams and software developers working on the most advanced chips successful.",
+    "features": [
+      "ZeBu Server 5: 2X the emulation performance and 2x higher throughput compared to its predecessor",
+      "ZeBu-200: design capacity up to 23 BG and up to 2X higher runtime performance vs. ZeBu EP",
+      "ZeBu EP: scalable unified hardware platform for emulation and prototyping",
+      "ZeBu Cloud",
+      "ZeBu Empower",
+      "HAV Interface Solutions"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/emulation-hero-verification?qlt=82&ts=1762539677475&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/verification/emulation-prototyping/emulation.html",
+    "product_id": "emulation",
+    "product_family": "Verification",
+    "industries": [
+      "Automotive",
+      "5G",
+      "Networking",
+      "Artificial Intelligence",
+      "Datacenter"
+    ],
+    "short_description": "Synopsys ZeBu Server delivers the industry's lowest total cost of ownership with lower power consumption and half the datacenter footprint."
+  },
+  {
+    "id": "synopsys-products-7",
+    "name": "HAPS",
+    "description": "Synopsys software-defined HAPS prototyping systems accelerate software development, hardware verification, and system validation for everything from IP blocks to complete SoCs.",
+    "features": [
+      "HAPS-200 flagship product for the most complex designs with the highest performance requirements",
+      "HAPS-100",
+      "HAV Interface Solutions",
+      "Hardware-assisted Test Solutions",
+      "HAPS Connect program accessory card interfaces from third-party vendors"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/prototyping-hero-verification?qlt=82&ts=1762539578798&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/verification/emulation-prototyping/prototyping.html",
+    "product_id": "prototyping",
+    "product_family": "Verification",
+    "industries": [],
+    "short_description": "The Synopsys HAPS® prototyping solution accelerates software development, hardware verification, and system validation for IP blocks to complete SoCs."
+  },
+  {
+    "id": "synopsys-products-8",
+    "name": "Virtualizer",
+    "description": "Synopsys Virtualizer is a tool suite that enables the creation of virtual prototypes of target hardware allowing developers to develop, test, and debug unmodified software binaries.",
+    "features": [
+      "Largest TLM Model Library/Ecosystem",
+      "Virtualizer Native Execution",
+      "Hybrid Emulation",
+      "Virtualizer Studio",
+      "CI/CD Regression",
+      "Automotive VDK"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/verification/virtual-prototyping/virtualizer.html",
+    "product_id": "virtualizer",
+    "product_family": "Verification",
+    "industries": [
+      "Automotive"
+    ],
+    "short_description": "Virtualizer addresses increasing development challenges by enabling companies to accelerate both the development and deployment of virtual prototypes."
+  },
+  {
+    "id": "synopsys-products-9",
+    "name": "Synplify",
+    "description": "Synplify FPGA synthesis software is the industry standard for producing high-performance and cost-effective FPGA designs.",
+    "features": [
+      "Advanced Verilog, System Verilog and VHDL support",
+      "Best quality of results (QoR) for timing performance and area/cost reduction",
+      "Support for high reliability and safety-critical design including DO-254, ISO 26262 and IEC 61508",
+      "Accelerated runtimes delivering up to 3X runtimes with support for up to 8 processors per license",
+      "Distributed synthesis with support for single or multiple machines",
+      "Integrated Identify RTL Debugger to quickly find functional errors",
+      "FSM Compiler and FSM Explorer for automatic extraction and optimization of finite state machines from RTL",
+      "Integration with VCS and Verdi"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/fpga-platform-wp-fig5?qlt=82&ts=1711643897219&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/fpga-based-design/synplify.html",
+    "product_id": "synplify",
+    "product_family": "Silicon Design",
+    "industries": [
+      "Medical",
+      "Automotive",
+      "Industrial automation",
+      "Communications",
+      "Military",
+      "Aerospace"
+    ],
+    "short_description": "The Synplify FPGA logic synthesis software is the industry standard for producing high-performance and cost-effective FPGA designs."
+  },
+  {
+    "id": "synopsys-products-10",
+    "name": "IC Validator",
+    "description": "Synopsys IC Validator physical verification high-performance signoff solution improves productivity for customers at all process nodes, from mature to advanced.",
+    "features": [
+      "Distributed processing scalability to over 4,000 CPU cores",
+      "Same-day design rule checking (DRC), layout versus schematic (LVS), and fill turnaround time",
+      "Seamless integration with Fusion Compiler and IC Compiler II"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/implementation-and-signoff/physical-verification.html",
+    "product_id": "physical-verification",
+    "product_family": "Silicon Design",
+    "industries": [],
+    "short_description": "Boost productivity with Synopsys IC Validator. Achieve accurate, fast physical verification for all process nodes with seamless integration and scalability."
+  },
+  {
+    "id": "synopsys-products-11",
+    "name": "DSO.ai",
+    "description": "Synopsys DSO.ai (Design Space Optimization AI) is the industry’s first autonomous artificial intelligence application for chip design, searching for optimization targets in very large solution spaces of chip design using reinforcement learning.",
+    "features": [
+      "Autonomous RTL-to-GDSII full flow optimization",
+      "Breakthrough AI Engines",
+      "Multi-Objective Design Space Optimization"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/synopsys-ai-products-banner-hero?qlt=82&ts=1778081777366&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/ai/ai-powered-eda/dso-ai.html",
+    "product_id": "dso-ai",
+    "product_family": "AI & Machine Learning",
+    "industries": [],
+    "short_description": "Synopsys DSO.ai solution is an artificial intelligence and reasoning engine capable of searching for optimization targets in very large solution spaces of chip design."
+  },
+  {
+    "id": "synopsys-products-12",
+    "name": "Verdi",
+    "description": "The Verdi debug and verification management platform is an all-encompassing solution designed to streamline and enhance your design entry, debug and verification management.",
+    "features": [
+      "Core Debug",
+      "Testbench Debug",
+      "AI-Based Advanced Debug",
+      "Power-Aware",
+      "Performance Analysis",
+      "Analog Mixed Signal",
+      "HW/SW Sync Debug",
+      "Emulation and Prototyping",
+      "Integrated Design Environment",
+      "Verification Management"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/verification/debug/verdi.html",
+    "product_id": "verdi",
+    "product_family": "Verification",
+    "industries": [],
+    "short_description": "Synopsys Verdi Automated Debug System enables advanced SoC debug, root-cause analysis, and verification productivity across development flows."
+  },
+  {
+    "id": "synopsys-products-13",
+    "name": "PCI Express",
+    "description": "The complete Synopsys PCIe IP solution includes silicon-proven PHYs, digital controllers, Integrity and Data Encryption (IDE) Security IP, and Verification IP.",
+    "features": [
+      "Complete PCIe 7.0 IP Solution",
+      "Complete PCIe 6.x IP Solution",
+      "PCIe 5.0 IP Solution",
+      "PCIe 4.0 IP Solution",
+      "PCIe IP to AMBA AXI Bridge",
+      "PCIe SR-IOV IP",
+      "PCIe 3.1 IP Solution",
+      "PCIe 2.1 IP Solution",
+      "Verification IP for PCIe"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/pci-express.html",
+    "product_id": "pci-express",
+    "product_family": "Silicon IP",
+    "industries": [
+      "AI",
+      "HPC",
+      "Networking",
+      "Storage",
+      "Mobile",
+      "Automotive"
+    ],
+    "short_description": "Synopsys offers secure, high-throughput, low-latency PCIe IP solutions for mobile, networking, storage, cloud computing, AI, and automotive SoCs."
+  },
+  {
+    "id": "synopsys-products-14",
+    "name": "CXL",
+    "description": "Synopsys CXL IP is a complete, silicon-proven solution spanning CXL 4.0, 3.x, 2.0, and 1.x, backed by Synopsys PCIe leadership.",
+    "features": [
+      "Support for all CXL generations — 4.0, 3.x, 2.0, and 1.x — on a single, unified IP stack",
+      "Silicon-proven PCIe-based PHY spanning 32G, 64G, and 128 GT/s — hardened from 5nm through 2nm",
+      "All CXL device types, host, and switch — with runtime dual-mode selection",
+      "Integrated IDE Security across CXL 2.0, 3.x and 4.0 — AES-GCM encryption, TSP/TDISP, FIPS 140-3 ready",
+      "Industry's first commercial CXL 4.0 Verification IP, plus VIP coverage for prior generations"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/cxl.html",
+    "product_id": "cxl",
+    "product_family": "Silicon IP",
+    "industries": [
+      "HPC",
+      "Data Center"
+    ],
+    "short_description": "Synopsys CXL IP delivers low-latency and high-bandwidth interconnect for applications requiring cache coherency."
+  },
+  {
+    "id": "synopsys-products-15",
+    "name": "DDR",
+    "description": "Synopsys offers a complete system-level memory interface IP portfolio for SoCs requiring an interface to DDR, LPDDR and HBM SDRAMs or memory modules (DIMMs).",
+    "features": [
+      "Scalable digital controllers with Inline Memory Encryption (IME) Security Module",
+      "Integrated hard macro or configurable PHY delivering memory system performance of up to 14.4Gbps",
+      "Verification IP",
+      "DFI-compliant interface, low latency, high performance, and low gate count",
+      "Optional AMBA CHI, AXI 4, host interface port, high Quality of Service (QoS) and advanced Reliability, Availability and Serviceability (RAS) features",
+      "Synopsys DDR PHY Compiler for determining the area and power of a customer-specific configuration"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/ddr.html",
+    "product_id": "ddr",
+    "product_family": "Silicon IP",
+    "industries": [
+      "HPC",
+      "Data Center"
+    ],
+    "short_description": "Synopsys DDR IP provides IP solutions for SoCs requiring an interface to one or a range of DDR5/4/3/2, HBM2/2E/3, LPDDR6/5/4/3/2 SDRAMs or DIMMs."
+  },
+  {
+    "id": "synopsys-products-16",
+    "name": "USB",
+    "description": "Synopsys USB IP solutions provide a complete portfolio of USB digital controller, PHY, Verification IP, IP Subsystems, and IP Prototyping Kits to help SoC designers build USB-IF compliant products.",
+    "features": [
+      "USB4/USB4v2 PHYs, Controllers and Router",
+      "USB 2.0/eUSB2 Controllers, PHYs and eUSB2 Repeaters",
+      "USB 3.0, 3.1 and 3.2 Controllers and PHYs",
+      "USB Type-C solutions including USB-C 3.2/DisplayPort 1.4",
+      "High-Speed Access & Test for USB",
+      "Verification IP"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/sg-usb4-block-diagram?qlt=82&ts=1771875507060&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/usb.html",
+    "product_id": "usb",
+    "product_family": "Silicon IP",
+    "industries": [],
+    "short_description": "Synopsys USB IP provides the industry's leading silicon-proven portfolio of USB IP controller, mixed-signal USB PHY and verification IP for SoC designs."
+  },
+  {
+    "id": "synopsys-products-17",
+    "name": "Ethernet",
+    "description": "Synopsys delivers a complete Ethernet IP solution consisting of configurable MAC & PCS controllers and silicon-proven 1G to 224G PHYs, MACsec security modules, verification IP, and Interface IP Subsystems.",
+    "features": [
+      "Complete 1.6T Ethernet IP Solution",
+      "Ultra Ethernet IP Solution",
+      "ESUN IP",
+      "224G, 112G and 56G Ethernet PHY IP",
+      "100G to 1.6T Ethernet MAC and PCS IP",
+      "HPC, Automotive and IoT MACsec Security Modules",
+      "Ethernet Quality-of-Service IP",
+      "100G Ethernet MAC IP with TSN"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/1-6t-hero-banner?qlt=82&ts=1764020478841&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/ethernet.html",
+    "product_id": "ethernet",
+    "product_family": "Silicon IP",
+    "industries": [
+      "HPC",
+      "IoT",
+      "Automotive",
+      "Networking"
+    ],
+    "short_description": "Explore Synopsys Ethernet IP with high-speed PHYs, controllers, MACsec security, and verification solutions for AI, HPC, automotive, and IoT designs."
+  },
+  {
+    "id": "synopsys-products-18",
+    "name": "MIPI",
+    "description": "Synopsys MIPI IP solutions enable the interface between SoCs, application processors, baseband processors and peripheral devices, with silicon-proven PHYs and controllers, verification IP, IP Prototyping Kits and Interface IP Subsystems.",
+    "features": [
+      "CSI-2 Controller IP",
+      "I3C Controller IP",
+      "C-PHY/D-PHY IP",
+      "D-PHY IP",
+      "CSE 2.0 Security Module",
+      "UFS Host Controller IP",
+      "UniPro Controller IP",
+      "M-PHY IP",
+      "DSI/DSI-2 Controller IP",
+      "Verification IP"
+    ],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/mipi-overview?qlt=82&ts=1743012213694&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/mipi.html",
+    "product_id": "mipi",
+    "product_family": "Silicon IP",
+    "industries": [
+      "Mobile",
+      "Automotive",
+      "IoT"
+    ],
+    "short_description": "Synopsys MIPI IP solutions include IP compliant with key MIPI protocols including CSI-2, DSI, DSI-2, D-PHY, C-PHY, I3C, M-PHY, and UniPro."
+  },
+  {
+    "id": "synopsys-products-19",
+    "name": "Die-to-Die",
+    "description": "Synopsys enables multi-die designs with a comprehensive die-to-die IP solution that includes Universal Chiplet Interconnect Express (UCIe) and 112G XSR controller, PHY, and verification IP.",
+    "features": [
+      "UCIe PHY operating at up to 64Gbps",
+      "Support for standard and advanced packaging technologies",
+      "UCIe controller enabling an ultra-low latency link between dies",
+      "112G XSR IP leveraging high-speed SerDes technology for extra short reach links",
+      "XSR controller with highly optimized FEC"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/designware-ip/interface-ip/die-to-die.html",
+    "product_id": "die-to-die",
+    "product_family": "Silicon IP",
+    "industries": [],
+    "short_description": "Synopsys’ Die-to-Die IP solutions include 112G XSR and UCIe controllers and PHYs."
+  },
+  {
+    "id": "synopsys-products-20",
+    "name": "Root of Trust",
+    "description": "The Synopsys tRoot Hardware Security Modules (HSMs) offer silicon-proven, self-contained security solutions IP with Root of Trust for SoCs.",
+    "features": [
+      "tRoot Vx Hardware Security Modules",
+      "tRoot Vx HSMs for iSIM",
+      "tRoot Fx Hardware Security Modules with Programmable Root of Trust",
+      "tRoot HSM for Automotive, certified by TUV-SGS as ISO-26262 ASIL-B compliant"
+    ],
+    "price": null,
+    "image_url": null,
+    "source_url": "https://www.synopsys.com/designware-ip/security-ip/root-of-trust.html",
+    "product_id": "root-of-trust",
+    "product_family": "Silicon IP",
+    "industries": [
+      "Consumer/IoT",
+      "Industrial control",
+      "Networking",
+      "Physical AI/Automotive",
+      "Media",
+      "Mobile"
+    ],
+    "short_description": "Discover Synopsys' tRoot HSMs with Root of Trust, delivering deeply embedded security for critical applications like IoT, automotive, and mobile devices."
+  }
+]
