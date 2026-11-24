@@ -1,0 +1,116 @@
+[
+  {
+    "id": "credit-cards-1",
+    "name": "Apex Credit Card",
+    "description": "Earn premium rewards tailored for the driven professional on the move.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_17286a01f0231f613f4df00f087253507b8a8c919.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/apex-card?category=business",
+    "credit_card_id": "apex-card",
+    "category": "business",
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": null
+  },
+  {
+    "id": "credit-cards-2",
+    "name": "Travel Vlogger Credit Card",
+    "description": "Offering rewards on travel spends, airline miles, and exclusive travel perks for content creators on the go.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_1edeaab7228e02bb1dbf2934d2b9355a924884853.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/frequent-flyer-credit-card?category=travel",
+    "credit_card_id": "frequent-flyer-credit-card",
+    "category": "travel",
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": null
+  },
+  {
+    "id": "credit-cards-3",
+    "name": "Rewards Card",
+    "description": "I want rewards points, complimentary insurances and added cardholder perks.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_13cc593d6edcea7835c4cc83d8d7e3d0ae280d387.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/rewards-card",
+    "credit_card_id": "rewards-card",
+    "category": null,
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": "$500 back to your new card when you spend $2000 on eligible purchases in the first 3 months from approval."
+  },
+  {
+    "id": "credit-cards-4",
+    "name": "Low Rate Card",
+    "description": "I want a low rate as I'm not likely to pay off my balance in full each month.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_14a66e4aed2af419a97edf8675a70c5e7e49a7f59.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/low-rate-card",
+    "credit_card_id": "low-rate-card",
+    "category": null,
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": "$500 back to your new card when you spend $2000 on eligible purchases in the first 3 months from approval."
+  },
+  {
+    "id": "credit-cards-5",
+    "name": "Low Fee Card",
+    "description": "I want to save on card fees and plan to pay my balance off in full each month.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_1baa1ad0fe10e99f8ba327e09367cfefc61cce374.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/low-fee-card",
+    "credit_card_id": "low-fee-card",
+    "category": null,
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": "$500 back to your new card when you spend $2000 on eligible purchases in the first 3 months from approval."
+  },
+  {
+    "id": "credit-cards-6",
+    "name": "The Ultimate Card",
+    "description": "I want a 0% interest card where I'll only pay a fee if I have a balance owing.",
+    "features": [
+      "$97 annual fee if you spend less than $40,000 a year on eligible purchases",
+      "21.99% p.a. interest rate on purchases",
+      "$8,000 minimum credit limit and you expect you will be able to repay all or most of the closing balance each month",
+      "No ongoing annual fee if you spend $40,000 a year or more on eligible purchases (less refunds or reversals.)"
+    ],
+    "price": "$97",
+    "image_url": "https://www.securbankdemo.com/media_1be99368085d1dfc0a4dce9f1291b72abb2928933.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards/the-ultimate-card",
+    "credit_card_id": "the-ultimate-card",
+    "category": null,
+    "annual_fee": "$97",
+    "purchase_interest_rate": "21.99% p.a.",
+    "intro_offer": "$500 back to your new card when you spend $2000 on eligible purchases in the first 3 months from approval."
+  }
+]
