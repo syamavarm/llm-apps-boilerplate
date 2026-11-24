@@ -1,6 +1,6 @@
 const test = require('node:test')
 const assert = require('node:assert/strict')
-const handler = require('../actions/contact-synopsys-sales/index.js')
+const handler = require('../../actions/contact-synopsys-sales/index.js')
 
 const FORM_URL = "https://main--securbank--syamavarm.aem.page/eds-widgets/forms/contact-synopsys-sales.plain.html"
 const EMBEDDED = true
