@@ -1,0 +1,212 @@
+[
+  {
+    "id": "match-engineering-solutions-1",
+    "name": "AI Infrastructure",
+    "description": "Achieve first-pass silicon success wherever you are in your AI chip development journey.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/ai-chips-thumbnail?qlt=82&ts=1784305437162&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/ai/ai-chip-development.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-2",
+    "name": "Aerospace & Government",
+    "description": "Automate mission-critical silicon, software & optics development.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/aerospace-defense?qlt=82&ts=1786086400566&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/aerospace-government.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-3",
+    "name": "Automotive",
+    "description": "Create & own your automotive innovation, from software to silicon.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/automotive?qlt=82&ts=1786086418016&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/automotive.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-4",
+    "name": "HPC & Data Center",
+    "description": "Promoting innovation with the industry’s most comprehensive HPC & data center solution.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-data-center-917505146-1600x960?qlt=82&ts=1786086433782&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/hpc-data-center.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-5",
+    "name": "Internet of Things",
+    "description": "Address evolving requirements for processing power, energy & security.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/smart-everything-iot-homepage?qlt=82&ts=1786086481311&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/iot.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-6",
+    "name": "Medical",
+    "description": "Ensure medical devices and applications meet patient expectations and comply with regulations.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/medical-3d-printing?qlt=82&ts=1786086521592&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/medical.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-7",
+    "name": "Manufacturing",
+    "description": "Early process development, advanced lithography and yield management.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/silicon-wafer-5?qlt=82&ts=1784305897787&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/manufacturing.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-8",
+    "name": "Memory",
+    "description": "Shift left with the industry’s most complete, end-to-end development flow.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/memory-center-left-1200x675?qlt=82&ts=1786086547297&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/memory.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-9",
+    "name": "Mobile/5G",
+    "description": "Unleash bandwidth and harness security for a 5G world.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/smart-everything-5g-no-overlay?qlt=82&ts=1786086565862&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/5g.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-10",
+    "name": "Photonic Solutions",
+    "description": "Best-in-class photonic design solutions and scalable platform for enabling full electric-photonic co-design.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/blog-silicon-photonics?qlt=82&ts=1784305867497&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/photonic-solutions.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-11",
+    "name": "Physical AI",
+    "description": "Synopsys enables physical AI with multiphysics simulation and validation.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/physical-ai-social-share?qlt=82&ts=1784305875450&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/ai/physical-ai.html",
+    "solution_category": "Industry"
+  },
+  {
+    "id": "match-engineering-solutions-12",
+    "name": "AI & Machine Learning",
+    "description": "Increase silicon performance & accelerate AI chip design, implementation & verification.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/ai-961970568-1600x960?qlt=82&ts=1786391671010&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/ai.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-13",
+    "name": "Cloud",
+    "description": "Fast, secure & efficient path to accelerate your cloud journey.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/cloud-icon-image-1600x960?qlt=82&ts=1786391678035&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/cloud.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-14",
+    "name": "DTCO",
+    "description": "Enable efficient evaluation of new transistor architectures & materials.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/home-dtco-605x363-en?qlt=82&ts=1786391684515&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/manufacturing/tcad/dtco.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-15",
+    "name": "Electronics Digital Twin",
+    "description": "Start earlier, deliver reliably with higher quality, innovate throughout your product lifecycle.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/eDT-main-newsroom-thumbnail?qlt=82&ts=1786391690726&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/electronics-digital-twin.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-16",
+    "name": "Energy-Efficient SoCs",
+    "description": "End-to-end solution for low power design, verification & IP from silicon to software.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/verifying-energy-efficient-chips-866599918-1600x960?qlt=82&ts=1786391697587&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/energy-efficient.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-17",
+    "name": "Multi-Die Design",
+    "description": "A comprehensive solution for fast heterogeneous integration.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/multi-die-1600x900-light?qlt=82&ts=1786391704859&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/multi-die-design.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-18",
+    "name": "Multiphysics Fusion",
+    "description": "Multiphysics Fusion fuses EDA and multiphysics for faster PPA signoff.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/multiphysics-fusion-homepage-mobile-banner?qlt=82&ts=1786391711030&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/multiphysics-fusion.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-19",
+    "name": "RISC-V",
+    "description": "Enabling a new era of innovation through open collaboration​.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/risc-v-summit-2025-thumbnail?qlt=82&ts=1786463872542&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/risc-v.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-20",
+    "name": "RF Design",
+    "description": "Connecting people & things wirelessly,",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/radio-frequency-hero-969437892-1600x960?qlt=82&ts=1786391717109&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/rf-design.html",
+    "solution_category": "Technology"
+  },
+  {
+    "id": "match-engineering-solutions-21",
+    "name": "Silicon Lifecycle Management",
+    "description": "Actionable insights through silicon lifecycle monitoring & analytics.",
+    "features": [],
+    "price": null,
+    "image_url": "https://images.synopsys.com/is/image/synopsys/slm-hero-1600x960?qlt=82&ts=1786391725487&$responsive$&fit=constrain&dpr=off&wid=400",
+    "source_url": "https://www.synopsys.com/solutions/silicon-lifecycle-management.html",
+    "solution_category": "Technology"
+  }
+]
