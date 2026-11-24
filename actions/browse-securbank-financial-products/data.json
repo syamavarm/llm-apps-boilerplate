@@ -1,0 +1,100 @@
+[
+  {
+    "id": "browse-financial-products-1",
+    "name": "Mortgage Loans",
+    "description": "Get a SecurBank new mortgage offer to buy the home you dream of. Tailor-Made Mortgage Quote: home loans made personal.",
+    "features": [
+      "Tailor-Made Mortgage Quote",
+      "Home loans made personal"
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_17ef831417d99c30cd6aebb7a279c8ac4dea83097.jpg?width=750&format=jpg&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/loans",
+    "product_type": "mortgage",
+    "cta_url": "https://www.securbankdemo.com/loans/form"
+  },
+  {
+    "id": "browse-financial-products-2",
+    "name": "SecurBank Credit Cards",
+    "description": "From cash back to travel perks, our credit cards offer low rates and big benefits. Apply today and start saving.",
+    "features": [
+      "Apex Credit Card",
+      "Travel Vlogger Credit Card",
+      "Rewards Card",
+      "Low Rate Card",
+      "Low Fee Card",
+      "The Ultimate Card"
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_1fbbd77cf30cc4c33ebb312eae92e0ac2df97295a.png?width=750&format=png&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/creditcards",
+    "product_type": "credit card",
+    "cta_url": "https://www.securbankdemo.com/creditcards/form"
+  },
+  {
+    "id": "browse-financial-products-3",
+    "name": "High-Yield Accounts",
+    "description": "Build a Strong Foundation: our high-yield accounts offer great returns and special bonuses, ensuring your family's financial stability and growth. Customized Bank Account.",
+    "features": [
+      "100% online application",
+      "Flexible terms based on your needs",
+      "No hidden fees",
+      "5.92% APR"
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_19ff4d30e8cb30c1fbde806798196dabe4f7cb614.jpg?width=750&format=jpg&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/accounts",
+    "product_type": "account",
+    "cta_url": "https://www.securbankdemo.com/loans/form"
+  },
+  {
+    "id": "browse-financial-products-4",
+    "name": "Investment Account",
+    "description": "Invest today, secure tomorrow.",
+    "features": [
+      "Diversification: Spread risk across various assets.",
+      "Compounded Growth: Maximize returns over time.",
+      "Tax Benefits: Enjoy potential tax savings.",
+      "Liquidity: Easy access to funds when needed.",
+      "Professional Management: Expert portfolio guidance.",
+      "Retirement Planning: Secure your financial future."
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_10fae3dfa73b58b0b073189e6d27643a6a3cb309c.jpg?width=750&format=jpg&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/accounts",
+    "product_type": "investment",
+    "cta_url": null
+  },
+  {
+    "id": "browse-financial-products-5",
+    "name": "Vehicle Insurance",
+    "description": "Enjoy complete and hassle-free coverage.",
+    "features": [
+      "Zero Dep Coverage Available",
+      "Online Purchases & renewals at competitive rates",
+      "Cashless claim settlement",
+      "Avail 24x7 Roadside Assistance with your Car Insurance Policy"
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_1c22d918cc754efc0484e5ba5bcffcfd21f31aeb3.jpg?width=750&format=jpg&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/insurance",
+    "product_type": "vehicle insurance",
+    "cta_url": "https://www.securbankdemo.com/insurance/form"
+  },
+  {
+    "id": "browse-financial-products-6",
+    "name": "Protect Your Health & Well-being",
+    "description": "Discover comprehensive coverage options tailored for you and your family.",
+    "features": [
+      "Our plans offer extensive benefits to ensure peace of mind.",
+      "Coverage includes medical expenses, accident protection, and more.",
+      "Enjoy access to a wide network of healthcare providers.",
+      "Get the support you need when it matters most."
+    ],
+    "price": null,
+    "image_url": "https://www.securbankdemo.com/media_19ff4d30e8cb30c1fbde806798196dabe4f7cb614.jpeg?width=750&format=jpeg&optimize=medium",
+    "source_url": "https://www.securbankdemo.com/insurance",
+    "product_type": "health insurance",
+    "cta_url": null
+  }
+]
